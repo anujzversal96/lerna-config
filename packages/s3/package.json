@@ -1,6 +1,6 @@
 {
   "name": "s3-test",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "whatsapp-plugin",
   "main": ".",
   "type": "module",
