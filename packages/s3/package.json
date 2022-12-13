@@ -1,0 +1,16 @@
+{
+  "name": "s3-test",
+  "version": "0.0.1",
+  "description": "whatsapp-plugin",
+  "main": ".",
+  "type": "module",
+  "scripts": {
+    "test": "jest --verbose",
+    "start": ""
+  },
+  "author": "zversal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
